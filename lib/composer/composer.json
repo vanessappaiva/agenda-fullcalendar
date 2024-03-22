@@ -1,0 +1,17 @@
+{
+    "name": "wef/calendar",
+    "description": "Calendário Agenda de Eventos e Tarefas com PHP.",
+    "authors": [
+        {
+            "name": "Vanessa Paiva",
+            "email": "vanespaiva@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\":  "../../models"
+        }
+    }
+}
